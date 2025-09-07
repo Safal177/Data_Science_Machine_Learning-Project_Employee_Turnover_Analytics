@@ -5,7 +5,7 @@
 # Project Outline:
 This project analyzes and predicts employee turnover at “Portobello Tech”, an app innovation company. The aim is to help the HR department to find trends that lead to employee attrition and make effective retention strategies with machine learning models.
 
-Objective:
+# Objective:
 The main goal of this project is to make an end to end python ML pipeline for analyzing and predicting employee turnover at Portobello Tech. Using the give data having satisfaction level, last evaluation, project workload, working hours, tenure, promotions, department, and salary, the aim is to  find  whether employee leave the company with using  the appropriate  ways such as cluster employees who left based on work satisfaction,  class imbalance using SMOTE, and evaluating multiple classification models (Logistic Regression, Random Forest, Gradient Boosting) through cross-validation. By providing the best model and analyzing its predictions, the project aims to offer HR guidance on improving employee retention strategies.
 
 #  Dataset
